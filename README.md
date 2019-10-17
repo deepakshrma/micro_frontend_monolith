@@ -1,2 +1,2 @@
 # micro_frontend_monolith
-A scaffold app monolith to demonstrate mico_frontend using docker, kotlin, nginx, golang
+A scaffold app monolith to demonstrate micro_frontend using docker, kotlin, nginx, golang
