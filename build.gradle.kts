@@ -11,3 +11,8 @@ allprojects {
         maven(url = "https://plugins.gradle.org/m2/")
     }
 }
+tasks.create("dockerBuild") {
+    doLast {
+        print("This is home[NO DOCKER]")
+    }
+}
